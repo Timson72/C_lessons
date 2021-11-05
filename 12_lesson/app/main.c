@@ -1,4 +1,4 @@
-/* Show list of files in entered direcrtory*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
